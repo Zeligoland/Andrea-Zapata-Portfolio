@@ -2,7 +2,7 @@ const Header = () => {
     return (
         <div>
             <div>
-                <h1 className="text-yellow-500">Hi, I'm Andrea, Frontend Developer, Psychologist & Digital Solution Provider</h1>
+                <h1 className="text-yellow-500 text-5xl font-poppins font-bold">Hi, I'm <span>Andrea</span>, Frontend Developer, Psychologist & Digital Solution Provider</h1>
                 <img></img>
             </div>
         </div>    
