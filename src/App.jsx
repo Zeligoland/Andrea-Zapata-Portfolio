@@ -1,5 +1,6 @@
 import Menu from './components/Menu';
 import Header from './components/Header';
+import Stack from './components/Stack';
 
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <>
       <Menu />
       <Header />
+      <Stack />
     </>
   );
 }
