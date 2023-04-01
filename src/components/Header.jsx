@@ -8,7 +8,8 @@ const Header = () => {
           <span className='bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-transparent bg-clip-text font-bold '>
             Andrea
           </span>
-          , <br/> Frontend Developer, <br /> Psychologist & Digital <br/>Solution Provider
+          , <br /> Frontend Developer, <br /> Psychologist & Digital <br />
+          Solution Provider
         </h1>
         <img src='src\assets\pic.png' className='inline-block'></img>
       </div>
